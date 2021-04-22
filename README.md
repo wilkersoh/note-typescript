@@ -219,5 +219,3 @@ const input = document.getElementById("num")! as HTMLInputElement;
 
 function add(num: number) { ... }
 ```
-
-# Typescript basic
